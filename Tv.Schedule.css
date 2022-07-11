@@ -1,0 +1,49 @@
+body {
+margin:auto;
+font-size: 90%;
+position: relative;
+box-sizing: border-box;
+
+}
+
+/* styling table*/
+table {
+    margin: auto;    
+    border-spacing: 0px;
+    width: 70%;
+    height: 300px;
+    font-family: arial, sans-serif;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 90px;
+}
+
+/* styling table th and td*/
+th,td {
+    background-color:blue;
+    color:#dddddd;
+    margin:2px;
+    border: 1px solid white;
+    height: 50px;
+    width: 50px;
+    width: 15px;
+   
+    
+
+
+}
+/* styling td */
+td {
+    background-color: #dddddd;
+    color:blue;
+    width: 25px;
+   
+}
+
+/*styling caption "Schedule" */
+caption {
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+    text-decoration: underline;
+}
