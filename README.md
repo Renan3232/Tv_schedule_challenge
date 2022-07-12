@@ -2,15 +2,16 @@
 
 ## Table of contents
 
-    - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Links](#links)
-    - [Built with](#built-with)
-    - [How did you approach solving the problem?](#approach-to-the-solving-problem)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
-    - [Author](#author)
+- [Overview](#overview)
+- [The challenge](#the-challenge)
+- [Links](#links)
+- [How did you approach solving the problem?](#approach-to-the-solving-problem)
+- [Built with](#built-with)
+- [How long did you spend on the exercise?](#how-long-did-you-spend-on-the-exercise?)
+- [What I learned](#what-i-learned)
+- [Continued development](#continued-development)
+- [Useful resources](#useful-resources)
+- [Author](#author)
 
 
 
@@ -41,7 +42,8 @@ Users should be able to:
 - Fetch the API data using JavaScript fetch() method
 - Fill the html table using the API data
 - Sort the date by time
-- format the date/time 
+- Format the date/time 
+- Style the table using CSS
 
 
 ### What I learned
@@ -53,7 +55,7 @@ I would like to continue developing my JavaScript skills in general.
 
 ### Useful resources
 
-- [MDM Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Helped me how to undestand fetch() 
+- [MDM Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Helped me to undestand fetch() method and how to use it in my solution.
 - [w3School](https://www.w3schools.com/js/default.asp)
 
 
