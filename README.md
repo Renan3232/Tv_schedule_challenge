@@ -51,7 +51,7 @@ I would like to continue developing my JavaScript skills in general.
 ### Useful resources
 
 - [MDM Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Helped me to undestand fetch() method and how to use it in my solution.
-- [w3School](https://www.w3schools.com/js/default.asp)
+- [w3School](https://www.w3schools.com/js/default.asp) Help me on styling my table.
 
 
 ## Author
