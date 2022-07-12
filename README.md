@@ -4,7 +4,6 @@
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
-- [Links](#links)
 - [How did you approach solving the problem?](#approach-to-the-solving-problem)
 - [Built with](#built-with)
 - [How long did you spend on the exercise?](#how-long-did-you-spend-on-the-exercise?)
@@ -25,17 +24,13 @@ Users should be able to:
 
 
 
-### Links
-
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [Live site](https://app.netlify.com/sites/determined-tereshkova-e2e232/overview)
-
-
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - JavaScript
 
+### How long did you spend on the exercise?
+- I have espent five hours on the exercise
 
 ### Aproach to the solving problem
 - Create a empty table using html 
