@@ -6,7 +6,7 @@
     - [The challenge](#the-challenge)
     - [Links](#links)
     - [Built with](#built-with)
-    - [How did you approach solving the problem?](#approach to the solving problem)
+    - [How did you approach solving the problem?](#approach-to-the-solving-problem)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
